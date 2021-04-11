@@ -1,5 +1,10 @@
 @import '../../../styles/card.scss';
 
-h1 {
+h2 {
+	background: #ff8f00;
+	border-bottom-right-radius: 50px;
+	border-top-left-radius: 10px;
     // Add some CSS here! What if you try to change the background?
 }
+
+.card .date {float: right}
